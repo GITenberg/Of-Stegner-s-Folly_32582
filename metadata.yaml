@@ -1,0 +1,29 @@
+_repo: Of-Stegner-s-Folly_32582
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32582-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shaver, Richard S.
+    alias: Lohrman, Paul
+    birthdate: 1907
+    deathdate: 1975
+    gutenberg_agent_id: '35925'
+    url: http://www.gutenberg.org/2009/agents/35925
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Sharpe_Shaver
+description: ''
+gutenberg_issued: '2010-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Of Stegner's Folly
+url: http://www.gutenberg.org/ebooks/32582
